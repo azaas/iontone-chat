@@ -8,7 +8,7 @@ Add this line to your page, just before `</body>`:
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/DrChoon/iontone-chat@1.1.0/chat_widget.min.js"
+  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.1.0/chat_widget.min.js"
   data-code="WORKSPACE_ID|AGENT_ID"
 ></script>
 ```
@@ -29,7 +29,7 @@ Pin a version (`@1.1.0`) rather than `@latest` or a branch name, so your page on
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/DrChoon/iontone-chat@1.1.0/chat_widget.min.js"
+  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.1.0/chat_widget.min.js"
   data-code="WORKSPACE_ID|AGENT_ID"
   data-theme-color="#004BC0"
   data-header-title="Ask Us"
