@@ -1,0 +1,9 @@
+iontone-chat
+Copyright 2026 aZaaS Pte Ltd, Singapore
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The ionTone name and the ionTone logo mark are trademarks of aZaaS Pte Ltd,
+Singapore. The Apache License does not grant permission to use them (see
+Section 6 of the License). Third-party components bundled in chat_widget.min.js
+are listed in THIRD_PARTY_NOTICES.md.
