@@ -8,14 +8,14 @@ Add this line to your page, just before `</body>`:
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.2.0/chat_widget.min.js"
+  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.2.1/chat_widget.min.js"
   data-code="WORKSPACE_ID|AGENT_ID"
 ></script>
 ```
 
 `data-code` is your workspace ID and agent ID, separated by a pipe (`|`). (For a Web Chat channel use `data-channel` instead, see below.) Nothing else is needed: the script, styles and logo animation are all in the one file.
 
-Pin a version (`@1.2.0`) rather than `@latest` or a branch name, so your page only changes when you choose to update.
+Pin a version (`@1.2.1`) rather than `@latest` or a branch name, so your page only changes when you choose to update.
 
 ## Optional attributes
 
@@ -31,7 +31,7 @@ Pin a version (`@1.2.0`) rather than `@latest` or a branch name, so your page on
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.2.0/chat_widget.min.js"
+  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.2.1/chat_widget.min.js"
   data-code="WORKSPACE_ID|AGENT_ID"
   data-theme-color="#004BC0"
   data-header-title="Ask Us"
@@ -46,7 +46,7 @@ To put a Web Chat channel of your organisation's ionTone flow builder on your si
 
 ```html
 <script
-  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.2.0/chat_widget.min.js"
+  src="https://cdn.jsdelivr.net/gh/azaas/iontone-chat@1.2.1/chat_widget.min.js"
   data-channel="CHANNEL_PUBLIC_KEY"
   data-webchat-url="https://FLOW_BUILDER_ADDRESS/BASE_PATH"
 ></script>
